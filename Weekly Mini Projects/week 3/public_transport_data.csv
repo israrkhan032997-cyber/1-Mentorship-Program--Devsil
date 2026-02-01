@@ -1,0 +1,5 @@
+Route,Scheduled_Time,Actual_Time
+Route A,08:00,08:10
+Route A,09:00,09:05
+Route B,08:30,08:50
+Route B,09:30,09:40
